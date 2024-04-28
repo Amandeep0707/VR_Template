@@ -1,0 +1,3 @@
+[submodule "Plugins/EVE"]
+	path = Plugins/EVE
+	url = https://github.com/TanishSingla/Enhanced-Virtual-Experience-Plugin-EVE-.git
