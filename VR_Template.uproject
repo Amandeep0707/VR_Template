@@ -41,6 +41,10 @@
 				"Mac",
 				"IOS"
 			]
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
