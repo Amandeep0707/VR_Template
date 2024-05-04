@@ -5,6 +5,8 @@
 ## Overview
 The EVE Demo Template is a demonstration project showcasing the capabilities and functionalities of the EVE Plugin. Designed to accompany the EVE Plugin, this template project provides developers with a hands-on experience of integrating and utilizing the plugin's features within a VR environment. Whether you're new to VR development or an experienced developer looking to explore advanced VR interactions, this demo template serves as an invaluable resource for understanding the potential of the EVE Plugin.
 
+Main Plugin Repository can be found [here](https://github.com/TanishSingla/Enhanced-Virtual-Experience-Plugin-EVE-)
+
 ## Getting Started
 To get started with the EVE Plugin Demo Template, follow these simple steps:
 
