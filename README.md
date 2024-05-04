@@ -20,4 +20,4 @@ git clone https://github.com/Amandeep0707/VR_Template.git
 For detailed documentation on using the EVE Plugin Demo Template and leveraging its features for your own projects, refer to the [EVE Plugin Documentation](https://docs.google.com/document/d/1YUKypYo-mNWKONceBwLo9VeZOQVTERbOSpwB3DJOyus/edit?usp=sharing).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
